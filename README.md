@@ -1,35 +1,19 @@
-## Hi there 👋
+### Do-oya 👋
+
+- 💻 Web Backend Engineer
+- 📮 qkrwjdgus1441@naver.com
 
 ### Main Tools
 <div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
-
 
 ### Currently Developing Tools
 <div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
-
-<!--
-**Do-oya/Do-oya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
