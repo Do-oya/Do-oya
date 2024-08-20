@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Dooya 
 
 
-💻 **Web Backend Engineer**
+💻 **Backend Developer**
 
 📮 qkrwjdgus1441@naver.com
 
