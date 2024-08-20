@@ -1,5 +1,8 @@
 <div align="center">
 
+# 👋 Hello, I'm Dooya 
+
+
 💻 **Web Backend Engineer**
 
 📮 qkrwjdgus1441@naver.com
@@ -28,8 +31,10 @@
 
 ### 📊 **GitHub Stats Card**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Do-oya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Do-oya&layout=compact&theme=radical)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Do-oya&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Do-oya&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ---
 
