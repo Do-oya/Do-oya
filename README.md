@@ -62,6 +62,6 @@ Feel free to reach out if you want to discuss web development, backend engineeri
 
 📧 **Email**: qkrwjdgus1441@naver.com
 
-🌐 **GitHub**: [GitHub Profile](https://github.com/your-username)
+🌐 **GitHub**: [GitHub Profile](https://github.com/Do-oya)
 
 </div>
