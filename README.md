@@ -36,7 +36,7 @@
 - Enthusiastic about continuous learning and adopting new technologies.
 
 ---
-
+<!--
 ### 📊 **GitHub Stats Card**
 
 <div>
@@ -45,7 +45,7 @@
 </div>
 
 ---
-
+-->
 <!--
 ### 📊 **Projects**
 
