@@ -35,5 +35,3 @@
 - Committed to writing clean, efficient, and maintainable code.
 - Enthusiastic about continuous learning and adopting new technologies.
 
----
-
