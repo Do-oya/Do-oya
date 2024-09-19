@@ -26,12 +26,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-
----
-
-### 🚀 **About Me**
-
-- Passionate about building scalable and robust web applications.
-- Committed to writing clean, efficient, and maintainable code.
-- Enthusiastic about continuous learning and adopting new technologies.
-
